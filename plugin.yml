@@ -1,0 +1,5 @@
+name: Core
+main: NewPlayerMC\Solarite\Core
+version: 3.0
+author: NewPlayerMC
+api: 3.0.0

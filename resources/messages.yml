@@ -1,0 +1,13 @@
+home_tp: "§a- §fTu as bien été téléporté à ton home!"
+home_create: "§a- §fTu as bien créé ton home!"
+home_trop_arguments: "§c- §fVous avez fourni trop d'arguments!"
+home_format_incorrecte: "§c- §fFormat incorrecte ! (§e/home [delete|create|(nom d'un home pour se tp)|(rien pour ouvrir le menu)]"
+
+friends_send_succes: "§a- §fTu as bien ajouté {friend} en amis"
+friends_add_self: "§c- §fTu ne peux pas t'ajouter toi même comme amis"
+
+# messages de la task
+messages:
+  - "§e- §f"
+  - "§a- §f"
+  - "§b- §f"
